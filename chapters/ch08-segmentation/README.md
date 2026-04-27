@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Zero-shot 'segment anything I describe' Gradio app with SAM 3 + Grounding DINO
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Semantic vs instance vs panoptic. FCN, U-Net, DeepLab (atrous + ASPP), Mask R-CNN, Mask2Former, then the foundation-model era: SAM 1/2/3 (clicks, boxes, masks, and concepts via text in SAM 3), Grounding DINO + SAM for open-vocabulary segmentation.
 

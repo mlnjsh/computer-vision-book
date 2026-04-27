@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Invoice-extraction-to-database pipeline + a simple browser-automation agent driven by vision
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 OCR (PaddleOCR, Tesseract, Donut), layout analysis (LayoutLMv3, Doctr), table extraction, structured-output VLMs, and the new visual agent loop: screenshot → reason → click. Walks through Claude Computer Use and OpenAI's vision agent pattern.
 

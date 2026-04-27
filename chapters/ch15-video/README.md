@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Sports-analytics pipeline that detects, tracks, and counts players' actions in a clip
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Optical flow (Lucas-Kanade, RAFT), 3D CNNs (I3D, SlowFast), VideoMAE, video-language models. Tracking pipeline: SORT → DeepSORT → ByteTrack → BoT-SORT → SAM 2 for video. Action recognition and video-text retrieval.
 

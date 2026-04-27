@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Run OpenVLA in simulation on a manipulation task and visualize attention over the scene
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 The category that didn't exist in 2023 and is now the most exciting in CV. The VLA paradigm (vision encoder + language model + action decoder), RT-1/RT-2, OpenVLA, π0 (diffusion-based continuous control), Helix (Figure AI humanoid), Open X-Embodiment dataset.
 

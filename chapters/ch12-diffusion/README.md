@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Fine-tune SDXL with LoRA on a personal dataset and chain with ControlNet for conditioned generation
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 GAN dynamics, VAE latents, then the diffusion takeover: DDPM, score-based models, classifier-free guidance, latent diffusion, Stable Diffusion 3.5, Flux, SDXL, ControlNet, IP-Adapter, LoRA. Practical recipes for inpainting, super-resolution, and style transfer.
 

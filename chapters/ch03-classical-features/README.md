@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Stitch a multi-image panorama and build a logo-detector with feature matching — no neural networks
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Why classical features still matter in 2026 (SLAM, panorama, low-data domains). Harris/FAST corners, SIFT/SURF/ORB/BRIEF descriptors, FLANN matching, RANSAC homography, Hough transforms, contour analysis, template matching.
 

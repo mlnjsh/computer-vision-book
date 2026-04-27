@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Document-cleanup preprocessor in pure OpenCV that survives uneven lighting
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Pixels, color spaces (RGB/HSV/LAB/YCbCr), sampling, quantization, histograms, and convolution from first principles. Filtering, denoising, edge detection (Sobel, Canny, Laplacian), thresholding (Otsu, adaptive), and morphology.
 

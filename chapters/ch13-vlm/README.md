@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Chart-and-document Q&A system using the Claude Vision API + a local Qwen2.5-VL fallback
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Anatomy of a modern VLM: vision encoder + projector + LLM decoder. LLaVA, Qwen2.5-VL, InternVL, Florence-2/3, Gemma 3 Vision, and the closed frontier (GPT-4o, Claude Vision, Gemini 2.5 Pro). When to fine-tune vs prompt vs use the API.
 

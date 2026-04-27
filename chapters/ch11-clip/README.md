@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Build a 'search your photo library by natural language' app with CLIP + FAISS that runs on a laptop
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Contrastive language-image pretraining as a paradigm shift. CLIP, OpenCLIP, SigLIP, EVA-CLIP, and the open-vocabulary tasks they unlock: zero-shot classification, image-text retrieval, semantic search, grounded detection. Prompt engineering for vision and FAISS for billion-scale retrieval.
 

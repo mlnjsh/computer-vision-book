@@ -27,7 +27,8 @@ This book covers the full arc with code that runs on a 2026 laptop and ships to 
 ```
 .
 ├── README.md                       # This file
-├── BOOK_OUTLINE.md / .docx / .pdf  # Authoritative outline
+├── BOOK_OUTLINE.md / .docx / .pdf  # Authoritative 20-chapter outline
+├── LESSON_PLANS.md                 # Detailed per-chapter ordered TOCs (defs/concepts/theory/code/notebook cells)
 ├── WRITING_PLAN.xlsx               # 8-week schedule + daily tracker
 ├── CHAPTER_TEMPLATE.md             # The structure every chapter follows
 ├── requirements.txt                # Pinned Python dependencies (Colab-compatible)

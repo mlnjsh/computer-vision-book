@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Mental-model diagram + framework benchmark (run YOLO26, SAM 3, CLIP, Claude Vision on the same image)
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 A grounded tour of where CV is in 2026: from the OpenCV era to foundation models. Maps the pipeline (acquisition → preprocessing → modeling → deployment), introduces the four eras (classical, CNN, ViT, foundation/multimodal), and frames the rest of the book. Reader leaves with a mental model of when to reach for SIFT vs YOLO vs SAM 3 vs a VLM.
 

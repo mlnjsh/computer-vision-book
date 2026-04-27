@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Fine-tune a timm model on a custom dataset and beat a published baseline through training tricks alone
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 The unglamorous-but-decisive chapter: data loaders, Albumentations, mixup/cutmix, label smoothing, optimizers (SGD/AdamW/Lion), schedulers, mixed precision, gradient checkpointing, multi-GPU with PyTorch Lightning, experiment tracking with Weights & Biases.
 

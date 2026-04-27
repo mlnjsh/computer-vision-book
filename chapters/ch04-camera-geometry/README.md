@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Calibrate a webcam and reconstruct a scene's depth map from a stereo pair using OpenCV's StereoSGBM
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Pinhole and fisheye camera models, intrinsics/extrinsics, lens distortion, calibration with checkerboards, epipolar geometry, stereo rectification, disparity maps, triangulation. Bridges classical CV to modern depth estimation.
 

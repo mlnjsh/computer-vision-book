@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Capture a scene with a phone, train a 3DGS model in Nerfstudio, render a fly-through
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Monocular depth (MiDaS, Depth Anything v2, Marigold), point clouds (PointNet, PointTransformer), structure-from-motion (COLMAP), NeRF and descendants (Instant-NGP, Mip-NeRF), and 3D Gaussian Splatting — the dominant scene representation for real-time photoreal rendering.
 

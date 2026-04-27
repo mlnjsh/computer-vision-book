@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Use frozen DINOv3 features as a backbone for downstream segmentation with a 90% data reduction vs supervised
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Why labels became the bottleneck. Contrastive (SimCLR, MoCo, BYOL), masked image modeling (MAE, SimMIM), and the DINO line — DINO → DINOv2 → DINOv3 (single frozen backbone outperforms specialists on dense prediction).
 

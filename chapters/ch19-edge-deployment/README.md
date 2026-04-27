@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Take YOLO26 from Ch7, quantize to INT8, export to TensorRT, deploy on Jetson Orin Nano with measured latency
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Quantization (PTQ, QAT, INT8, FP16, FP8), pruning, knowledge distillation, ONNX export, runtime engines (ONNX Runtime, TensorRT, OpenVINO, CoreML, TFLite, Triton), edge platforms (Jetson Orin, Raspberry Pi 5 + Hailo, mobile NPUs).
 

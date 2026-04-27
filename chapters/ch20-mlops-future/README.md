@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** End-to-end production capstone: ship the running case-study pipeline as a monitored production service
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 Data versioning (DVC), label management (Label Studio, Roboflow), active learning, drift detection, model monitoring, A/B testing for vision, CI/CD with MLflow/W&B. Responsible AI: bias auditing, explainability (Grad-CAM, SHAP, Captum), privacy, EU AI Act, C2PA. Closes with a forward-looking section.
 

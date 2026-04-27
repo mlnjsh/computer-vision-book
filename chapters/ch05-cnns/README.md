@@ -2,6 +2,8 @@
 
 > **Status:** 📋 Not started  ·  **Target words:** ~3,000  ·  **Hands-on:** Implement a ResNet-18 from scratch in PyTorch and reproduce a CIFAR-10 result
 
+> 📘 **Detailed lesson plan:** see [`LESSON.md`](LESSON.md) for the ordered TOC, definitions, theory, notebook cells, and exercises.
+
 ## Outline (4-5 lines)
 The CNN family tree as a single story: LeNet → AlexNet → VGG → Inception → ResNet → DenseNet → EfficientNet → MobileNet → ConvNeXt. Builds intuition for why each design choice was a real fix to a real problem.
 
