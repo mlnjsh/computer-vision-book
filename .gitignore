@@ -73,3 +73,6 @@ _build/
 *.aux
 *.toc
 *.out
+
+# MS Office lock files (created when docx/xlsx is open)
+~$*
