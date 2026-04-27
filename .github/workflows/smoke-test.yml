@@ -1,0 +1,31 @@
+name: smoke-test
+
+on:
+  pull_request:
+    paths:
+      - 'notebooks/**'
+      - 'requirements.txt'
+  push:
+    branches: [main]
+    paths:
+      - 'notebooks/**'
+      - 'requirements.txt'
+
+jobs:
+  lint-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - name: Install lint tools
+        run: |
+          pip install nbqa ruff nbstripout
+      - name: Strip outputs (notebooks should be committed without outputs)
+        run: |
+          find notebooks -name '*.ipynb' -print0 | xargs -0 -I {} nbstripout --check {}
+      - name: Ruff on notebook code cells
+        run: |
+          nbqa ruff notebooks/ --select=E,F,W --ignore=E501

@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Data — never commit raw datasets
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.npz
+!notebooks/data/sample/   # tiny samples allowed for unit-testing notebooks
+
+# Model weights — never commit large binaries
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+weights/
+checkpoints/
+
+# Generated figures (keep source, regenerate)
+figures/**/*.png
+figures/**/*.jpg
+figures/**/*.svg
+!figures/**/README.md
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.swp
+.DS_Store
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+kaggle.json
+
+# Logs
+logs/
+*.log
+wandb/
+mlruns/
+
+# OS
+Thumbs.db
+ehthumbs.db
+
+# Build artifacts of the book itself
+_build/
+*.aux
+*.toc
+*.out
